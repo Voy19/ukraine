@@ -410,7 +410,7 @@ body {
         width: 36%; }
       .container .paralax_screen .paralax .paralax_img_smoke {
         position: absolute;
-        margin-top: 47%;
+        top: 55%;
         width: 90%; }
       .container .paralax_screen .paralax .paralax_img_spray {
         position: absolute;
@@ -616,7 +616,7 @@ footer {
       .container .paralax_screen .paralax .paralax_img_text2 {
         margin-top: -1%; }
       .container .paralax_screen .paralax .paralax_img_smoke {
-        margin-top: 30%; }
+        top: 60%; }
       .container .paralax_screen .paralax .paralax_img_spray {
         top: 0; }
   .container .text_screen {
